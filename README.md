@@ -9,6 +9,8 @@
 - [Intro to Pixel Shaders in Three.js - Airtight Interactive (2013)](https://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/)
 - [Vertex displacement with a noise function using GLSL and three.js](https://www.clicktorelease.com/blog/vertex-displacement-noise-3d-webgl-glsl-three-js/)
 - [Build a Music Visualizer with the Web Audio API](https://noisehack.com/build-music-visualizer-web-audio-api/) (using GLSL)
+- [Beginner’s guide to Shader Development using Unity — Part 1](https://www.linkedin.com/pulse/beginners-guide-shader-development-using-unity-part-1-chayan-vinayak) (Title should be "What are shaders and how do they work?". It's not about Unity at all but it's a great intro on shaders in a broader sense)
+- [Beginner’s guide to Shader Development using Unity — Part 2](https://www.linkedin.com/pulse/beginners-guide-shader-development-using-unity-part-2-chayan-vinayak)
 
 ## Frameworks & Librairies
 
