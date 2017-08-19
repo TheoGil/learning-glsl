@@ -11,6 +11,7 @@
 - [Build a Music Visualizer with the Web Audio API](https://noisehack.com/build-music-visualizer-web-audio-api/) (using GLSL)
 - [Beginner’s guide to Shader Development using Unity — Part 1](https://www.linkedin.com/pulse/beginners-guide-shader-development-using-unity-part-1-chayan-vinayak) (Title should be "What are shaders and how do they work?". It's not about Unity at all but it's a great intro on shaders in a broader sense)
 - [Beginner’s guide to Shader Development using Unity — Part 2](https://www.linkedin.com/pulse/beginners-guide-shader-development-using-unity-part-2-chayan-vinayak)
+- [Deep Dive: Three.js Part 5: Shaders - CJ Gammon](https://www.youtube.com/watch?v=uD4GnMsAH1U&index=5&list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf)
 
 ## Frameworks & Librairies
 
