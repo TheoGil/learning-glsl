@@ -13,6 +13,8 @@
 - [Beginner’s guide to Shader Development using Unity — Part 2](https://www.linkedin.com/pulse/beginners-guide-shader-development-using-unity-part-2-chayan-vinayak)
 - [Deep Dive: Three.js Part 5: Shaders - CJ Gammon](https://www.youtube.com/watch?v=uD4GnMsAH1U&index=5&list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf)
 - [Shader School](https://github.com/stackgl/shader-school)
+- [WebGL Workshop](https://github.com/stackgl/webgl-workshop)
+- [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/)
 
 ## Frameworks & Librairies
 
