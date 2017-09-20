@@ -15,6 +15,8 @@
 - [Shader School](https://github.com/stackgl/shader-school)
 - [WebGL Workshop](https://github.com/stackgl/webgl-workshop)
 - [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/)
+- [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro)
+- [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs)
 
 ## Frameworks & Librairies
 
