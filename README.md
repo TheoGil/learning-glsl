@@ -17,6 +17,7 @@
 - [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/)
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro)
 - [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs)
+- [Shaders, Attributes, Uniforms, and Varying - WebGL Explained](https://www.youtube.com/watch?v=lBKHKGtFfwY)
 
 ## Frameworks & Librairies
 
