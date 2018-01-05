@@ -20,6 +20,7 @@
 - [Shaders, Attributes, Uniforms, and Varying - WebGL Explained](https://www.youtube.com/watch?v=lBKHKGtFfwY)
 - [Shadron Youtube channel](https://www.youtube.com/channel/UCOFwdyoC6v56d-z0oUarwOA/featured)
 - [Fun With WebGL 2.0](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF#funwithwebgl2)
+- [Learning Shaders](https://www.alanzucconi.com/2018/01/03/learning-shaders/)
 
 ## Frameworks & Librairies
 
