@@ -22,6 +22,7 @@
 - [Fun With WebGL 2.0](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF#funwithwebgl2)
 - [Learning Shaders](https://www.alanzucconi.com/2018/01/03/learning-shaders/)
 - [The Art of Code Youtube channel](https://www.youtube.com/channel/UCcAlTqd9zID6aNX3TzwxJXg/videos)
+- [SketchpunkLabs - Fun With WebGL 2.0 playlist](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF)
 
 ## Frameworks & Librairies
 
